@@ -3,6 +3,10 @@
 A lightweight Maya task management tool for artists, supporting WIP/TODO workflow, workspace-based JSON storage, focus priority system, and production-friendly task tracking.
 
 
+## 📋 Requirements
+- **Maya**: 2023 or later (Required for Python 3 support).
+
+
 
 ## ⚙️ Key Features
 
