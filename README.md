@@ -1,6 +1,8 @@
+
 # HurryUP_ToDo ::: MAYA TODO list Plugin
 
 A lightweight Maya task management tool for artists, supporting WIP/TODO workflow, workspace-based JSON storage, focus priority system, and production-friendly task tracking.
+<img width="717" height="894" alt="HUYUP_TODOTI_Screen" src="https://github.com/user-attachments/assets/c25b0410-f9fd-4948-88a1-a34e70ae7a6a" />
  <br>
  <br>
  
